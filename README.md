@@ -1,1 +1,1 @@
-*** Fall 2022 Medical Imaging Project ***
+**Fall 2022 Medical Imaging Project**
