@@ -13,3 +13,11 @@ The various input information includes:
 7. The TE values of the inside and outside objects
 
 All of the input data is checked for validity.
+
+**To use this code, follow these simple steps:**
+
+1. Input all of your data
+2. Click the 'Check Inputs' button
+3. Verify that all of the lamps have turned green
+4. Click the 'Generate Images' button
+5. Look at and/or save the output images
