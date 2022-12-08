@@ -21,3 +21,5 @@ All of the input data is checked for validity.
 3. Verify that all of the lamps have turned green
 4. Click the 'Generate Images' button
 5. Look at and/or save the output images
+
+Note: This project was coded in the R2019a version of MATLAB. I do not think any problems will arise from using a newer version, but it is possible.
